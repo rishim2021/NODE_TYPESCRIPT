@@ -1,0 +1,1 @@
+export const dbUrl = "mongodb+srv://rishi:rishi@cluster0.44u6n.mongodb.net/employee?retryWrites=true&w=majority"
