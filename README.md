@@ -1,6 +1,8 @@
 # NODE_TYPESCRIPT
 Set enviroment 
 
+Test
+
 For windows 
 set PORT=3000
 
